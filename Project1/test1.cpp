@@ -2,6 +2,6 @@
 
 void main() {
 	printf("Hello, world");
-	return 0;
+	printf("Bye, world");
 	// эта программа выводит привет мир
 }
